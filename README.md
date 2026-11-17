@@ -1,5 +1,11 @@
 # PRISM BREAK
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/AuhNijGnahz/prism-break/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/AuhNijGnahz/prism-break/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+An entry to make.fun's [“Make the best game” bounty (best-game-01)](https://make.fun/bounty/best-game-01).
+
 A brick-breaker roguelite for the desktop browser: nine hand-built facets of
 bricks, falling power-up capsules, combo scoring, and a moving, regenerating
 boss wall every third level. Written in plain ES modules on a 2D canvas with
